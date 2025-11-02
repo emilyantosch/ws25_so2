@@ -1,3 +1,5 @@
+package Lecture01;
+
 public class Student {
     String name;
     int number;

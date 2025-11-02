@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package Lecture01;
+
 class Person {
 
 }
