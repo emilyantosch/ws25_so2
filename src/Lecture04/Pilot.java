@@ -13,7 +13,6 @@ public class Pilot extends Person {
         pilot.flightHours = 100;
         System.out.println(pilot.name);
         System.out.println(pilot.flightHours);
-
     }
 
 
